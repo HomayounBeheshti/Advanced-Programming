@@ -18,7 +18,7 @@ to learn more about whatever you want after studying it.
 3. [Using and defining functions](basics/using-functions.md)
 4. [If, else and elif](basics/if.md)
 5. [Strings](basics/handy-stuff-strings.md)
-6. [Lists and tuples](basics/lists-and-tuples.md)
+6. [Lists and tuples](https://github.com/HomayounBeheshti/Advanced-Programming/blob/master/exercises/Python_List_Exercise.md)
 7. [Loops](basics/loops.md)
 8. [Dictionaries](basics/dicts.md)
 9. [Files](basics/files.md)
