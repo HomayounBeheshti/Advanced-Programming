@@ -14,17 +14,17 @@ This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
 1. [Getting started with Python]
-2. [Variables, Booleans and None](basics/variables.md)
-3. [Using and defining functions](basics/using-functions.md)
-4. [If, else and elif](basics/if.md)
-5. [Strings](basics/handy-stuff-strings.md)
-6. [Lists and tuples](https://github.com/HomayounBeheshti/Advanced-Programming/blob/master/exercises/Python_List_Exercise.md)
-7. [Loops](basics/loops.md)
-8. [Dictionaries](basics/dicts.md)
-9. [Files](basics/files.md)
-10. [Modules](basics/modules.md)
-11. [Exceptions](basics/exceptions.md)
-12. [Classes](basics/classes.md)
+2. [Variables, Booleans and None]
+3. [Using and defining functions]
+4. [If, else and elif]
+5. [Strings]
+6. [Lists and tuples](/exercises/Python_List_Exercise.md)
+7. [Loops]
+8. [Dictionaries]
+9. [Files]
+10. [Modules]
+11. [Exceptions]
+12. [Classes]
 
 ### Advanced
 
