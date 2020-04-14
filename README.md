@@ -13,7 +13,7 @@ The tutorial consists of two sections:
 This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
-1. [Getting started with Python](basics/getting-started.md)
+1. [Getting started with Python]
 2. [Variables, Booleans and None](basics/variables.md)
 3. [Using and defining functions](basics/using-functions.md)
 4. [If, else and elif](basics/if.md)
