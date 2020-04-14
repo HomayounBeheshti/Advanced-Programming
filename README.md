@@ -30,6 +30,6 @@ to learn more about whatever you want after studying it.
 
 Coming Soon ...
 
-## Sourse Slides
+## Course Slides
 
-All slides of this course are available for download [here]()/Slides.
+All slides of this course are available for download [here](/Slides).
