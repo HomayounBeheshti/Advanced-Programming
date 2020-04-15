@@ -89,7 +89,7 @@ to learn more about whatever you want after studying it.
 `Tuples`
 
 #### 💡 Slides
-1. Lists [PDF](/Slides/03.%20Functions.pdf)
+1. Lists [PDF](/Slides/06.%20Lists.pdf)
 2. Tuples [PDF]
 
 #### 📒 Assignments
