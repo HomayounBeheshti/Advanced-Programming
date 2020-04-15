@@ -17,75 +17,67 @@ to learn more about whatever you want after studying it.
 <summary>01 - <i>Getting started with Python</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`About Course`
+`Course Materials`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Introduction [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
+1. [Hello World!]
 </details>
 
 <details>
 <summary>02 - <i>Variables, Booleans and None</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Simple Data Structures in Python`
+`Python Data Types`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Variables and Data Types [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>03 - <i>Using and defining functions</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Build-in Functions`
+`Argument Types`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Functions [PDF](/Slides/03.%20Functions.pdf)
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>04 - <i>If, else and elif</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Boolean Values`
+`If Statement`
+`Short Hand If`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Lists [PDF](/Slides/04.%20Conditions.pdf)
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>05 - <i>Strings</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Strings`
+`String Functions`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. String [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 
@@ -93,90 +85,78 @@ to learn more about whatever you want after studying it.
 <summary>06 - <i>Lists and Tuples</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`List`
+`Tuples`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Lists [PDF](/Slides/03.%20Functions.pdf)
+2. Tuples [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
+1. [Lists](/exercises/Python_List_Exercise.md)
 </details>
 
 <details>
 <summary>07 - <i>Loops</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`For Loops`
+`While Loops`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Loops [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>08 - <i>Dictionaries</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Dictionaries`
+
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Dictionaries [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>09 - <i>Files</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Working with File`
+`JSON`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Files [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>10 - <i>Modules</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Modules`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Modules [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
 <summary>11 - <i>Exceptions</i></summary>
 
 #### 🎯 Topics
-`Computer vision overview`
-`Course logistics`
+`Exception Handling`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. Exceptions [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 <details>
@@ -184,14 +164,11 @@ to learn more about whatever you want after studying it.
 
 #### 🎯 Topics
 `Object Oriented Programming`
-`Course logistics`
 
 #### 💡 Slides
-1. Lists [PDF](http://class.vision/96-97/01_intro.pdf)
-2. Tuples [PDF](http://class.vision/96-97/01_intro.pdf)
+1. OOP [PDF]
 
 #### 📒 Assignments
-1. [Lists](0-Beginning.ipynb)
 </details>
 
 
