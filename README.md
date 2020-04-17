@@ -174,7 +174,23 @@ to learn more about whatever you want after studying it.
 
 ### Advanced
 
-Coming Soon ...
+If you want to learn more advanced techniques, you can also read this section. Most of the techniques explained here are great when you're working on a large project, and your code would be really repetitive without these things.
+
+<details>
+<summary>01 - <i>Lambda Function</i></summary>
+
+#### 🎯 Topics
+`Lambda`
+`Anonymous function`
+`map`
+`filter`
+
+#### 💡 Slides
+1. Python Lambda [PDF]
+
+#### 📒 Assignments
+</details>
+
 
 ## Course Slides
 
