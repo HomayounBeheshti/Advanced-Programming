@@ -24,7 +24,6 @@ to learn more about whatever you want after studying it.
 1. Introduction [PDF]
 
 #### 📒 Assignments
-1. [Hello World!]
 </details>
 
 <details>
