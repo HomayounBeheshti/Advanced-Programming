@@ -47,7 +47,7 @@ to learn more about whatever you want after studying it.
 `Argument Types`
 
 #### 💡 Slides
-1. Functions [PDF](/Slides/03.%20Functions.pdf)
+1. Functions [Download slide](/Slides/03.%20Functions.pdf)
 
 #### 📒 Assignments
 </details>
@@ -61,7 +61,7 @@ to learn more about whatever you want after studying it.
 `Short Hand If`
 
 #### 💡 Slides
-1. Lists [PDF](/Slides/04.%20Conditions.pdf)
+1. Lists [Download slide](/Slides/04.%20Conditions.pdf)
 
 #### 📒 Assignments
 </details>
@@ -88,8 +88,7 @@ to learn more about whatever you want after studying it.
 `Tuples`
 
 #### 💡 Slides
-1. Lists [PDF](/Slides/06.%20Lists.pdf)
-2. Tuples [PDF]
+1. Lists [Download slide](/Slides/06.%20Lists.pdf)
 
 #### 📒 Assignments
 1. [Lists](/exercises/Python_List_Exercise.md)
@@ -103,7 +102,7 @@ to learn more about whatever you want after studying it.
 `While Loops`
 
 #### 💡 Slides
-1. Loops [PDF]
+1. Loops [Download slide](/Slides/07.Loops.pdf)
 
 #### 📒 Assignments
 </details>
@@ -185,7 +184,7 @@ If you want to learn more advanced techniques, you can also read this section. M
 `filter`
 
 #### 💡 Slides
-1. Python Lambda [PDF]
+1. Python Lambda [Download slide](/Slides/01.adv-Lambda.pdf)
 
 #### 📒 Assignments
 </details>
