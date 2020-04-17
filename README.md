@@ -1,4 +1,4 @@
-# Advanced programming course
+# Advanced Programming course
 
 This Python tutorial was created for advanced programming course for computer students. In this lesson, I want to talk about simple topics to advanced topics in programming with Python. Python is one of the most powerful programming languages in the world. Today, this powerful language has become one of the top tools for developing web and mobile applications, artificial intelligence applications, especially machine learning, and big data analytics. Python's remarkable success is due to the valuable features it offers to both professional and beginner developers.
 
