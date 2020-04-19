@@ -227,6 +227,17 @@ If you want to learn more advanced techniques, you can also read this section. M
 #### 📒 Assignments
 </details>
 
+<details>
+<summary>05 - <i>Data Visualization</i></summary>
+
+#### 🎯 Topics
+`Matplotlib`
+
+#### 💡 Slides
+1. Data Visualization[Download slide]
+
+#### 📒 Assignments
+</details>
 ## Course Slides
 
 All slides of this course are available for download [here](/Slides).
