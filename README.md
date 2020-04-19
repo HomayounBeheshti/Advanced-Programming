@@ -215,7 +215,17 @@ If you want to learn more advanced techniques, you can also read this section. M
 #### 📒 Assignments
 </details>
 
+<details>
+<summary>04 - <i>Random Functions and Simulation</i></summary>
 
+#### 🎯 Topics
+`Random Numbers`
+
+#### 💡 Slides
+1. Random Functions and Simulation[Download slide]
+
+#### 📒 Assignments
+</details>
 
 ## Course Slides
 
