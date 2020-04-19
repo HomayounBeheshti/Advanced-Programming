@@ -190,6 +190,33 @@ If you want to learn more advanced techniques, you can also read this section. M
 </details>
 
 
+<details>
+<summary>02 - <i>Numerical Calculations</i></summary>
+
+#### 🎯 Topics
+`NumPy`
+`SciPy`
+
+#### 💡 Slides
+1. Numerical Calculations [Download slide]
+
+#### 📒 Assignments
+</details>
+
+<details>
+<summary>03 - <i>Event-Driven Programming </i></summary>
+
+#### 🎯 Topics
+`Turtle`
+
+#### 💡 Slides
+1. Turtle [Download slide]
+
+#### 📒 Assignments
+</details>
+
+
+
 ## Course Slides
 
 All slides of this course are available for download [here](/Slides).
