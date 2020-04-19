@@ -22,7 +22,7 @@ After `func1(80, 100)`:
 
 For example:
 
-```pthon
+```python
 def calculation(a, b):
     # Your Code
 
@@ -52,7 +52,7 @@ Employee Ben salary is: 9000
 **Exercise Question 6: Assign a different name to function and call it through the new name**
 Below is the function `displayStudent(name, age)`. Assign a new name `showStudent(name, age)` to it and call through the new name
 
-```pyhton
+```python
 def displayStudent(name, age):
     print(name, age)
 
@@ -61,13 +61,13 @@ displayStudent("Emma", 26)
 
 You should be able to call the same function using
 
-```pyhton
+```python
 showStudent(name, age)
 ```
 
 **Exercise Question 7:** What is the output of the following code
 
-```pyhton
+```python
 def outerFun(a, b):
     def innerFun(c, d):
         return c + d
@@ -79,7 +79,7 @@ print(res)
 
 **Exercise Question 8:** What is the output of the following function call
 
-```pyhton
+```python
 def fun1(name, age=20):
     print(name, age)
 
@@ -95,7 +95,7 @@ fun1('Emma', 25)
 
 **Exercise Question 10:** What is the output of the following function call
 
-```pyhton
+```python
 def outerFun(a, b):
     def innerFun(c, d):
         return c + d
