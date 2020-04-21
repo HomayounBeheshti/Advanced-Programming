@@ -251,6 +251,6 @@ If you want to learn more advanced techniques, you can also read this section. M
 
 #### 📒 Assignments
 </details>
-## Course Slides
 
+## Course Slides
 All slides of this course are available for download [here](/Slides).
