@@ -108,7 +108,20 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>08 - <i>Dictionaries</i></summary>
+<summary>08 - <i>Recursion</i></summary>
+
+#### 🎯 Topics
+`Memoization`
+
+#### 💡 Slides
+1. Recursion [Download slide](/Slides/08.Recursion.pdf)
+
+#### 📒 Assignments
+</details>
+
+
+<details>
+<summary>09 - <i>Dictionaries</i></summary>
 
 #### 🎯 Topics
 `Dictionaries`
@@ -121,7 +134,7 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>09 - <i>Files</i></summary>
+<summary>10 - <i>Files</i></summary>
 
 #### 🎯 Topics
 `Working with File`
@@ -134,7 +147,7 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>10 - <i>Modules</i></summary>
+<summary>11 - <i>Modules</i></summary>
 
 #### 🎯 Topics
 `Modules`
@@ -146,7 +159,7 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>11 - <i>Exceptions</i></summary>
+<summary>12 - <i>Exceptions</i></summary>
 
 #### 🎯 Topics
 `Exception Handling`
@@ -158,7 +171,7 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>12 - <i>Classes</i></summary>
+<summary>13 - <i>Classes</i></summary>
 
 #### 🎯 Topics
 `Object Oriented Programming`
