@@ -74,7 +74,7 @@ to learn more about whatever you want after studying it.
 `String Functions`
 
 #### 💡 Slides
-1. String [PDF]
+1. String [Download slide](/Slides/05.Strings.pdf)
 
 #### 📒 Assignments
 </details>
@@ -128,7 +128,7 @@ to learn more about whatever you want after studying it.
 
 
 #### 💡 Slides
-1. Dictionaries [PDF]
+1. Dictionaries [Download slide](/Slides/09.Dictionary.pdf)
 
 #### 📒 Assignments
 </details>
@@ -171,13 +171,13 @@ to learn more about whatever you want after studying it.
 </details>
 
 <details>
-<summary>13 - <i>Classes</i></summary>
+<summary>13 - <i>OOP</i></summary>
 
 #### 🎯 Topics
 `Object Oriented Programming`
 
 #### 💡 Slides
-1. OOP [PDF]
+1. OOP [Download slide](/Slides/13.OOP.pdf)
 
 #### 📒 Assignments
 </details>
