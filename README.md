@@ -175,9 +175,15 @@ to learn more about whatever you want after studying it.
 
 #### 🎯 Topics
 `Object Oriented Programming`
+`Polymorphism`
+`Inheritance`
+`Operator Overloading`
+
 
 #### 💡 Slides
 1. OOP [Download slide](/Slides/13.OOP.pdf)
+1. Multiple Inheritance [Download slide](/Slides/14.MultipleInheritance.pdf)
+1. Operator Overloading [Download slide](/Slides/15.OperatorOverloading.pdf)
 
 #### 📒 Assignments
 </details>
