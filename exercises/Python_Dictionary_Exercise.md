@@ -11,7 +11,7 @@ values = [10, 20, 30]
 **Expected output:**
 
 ```python
-{'Ten': 10, 'Twenty': 20, 'Thirty': 30}
+{'Ten': 10, 'Twenty': 20, 'Thirty': 30, 'Fourty': 40, 'Fifty': 50}
 ```
 
 ## dictionary exercise 2: Merge following two Python dictionaries into one
