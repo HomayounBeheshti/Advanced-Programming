@@ -142,6 +142,8 @@ to learn more about whatever you want after studying it.
 
 #### 💡 Slides
 1. Files [PDF]
+1. Directories [PDF]
+1. JSON [PDF]
 
 #### 📒 Assignments
 </details>
