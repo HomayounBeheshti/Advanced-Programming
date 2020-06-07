@@ -217,7 +217,7 @@ If you want to learn more advanced techniques, you can also read this section. M
 `SciPy`
 
 #### 💡 Slides
-1. Numerical Calculations [Download slide]
+1. Numerical Calculations [Download slide](/Slides/02.adv-NumpyAndScipy.pdf)
 
 #### 📒 Assignments
 </details>
